@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'screens/mini_cricket_page.dart';
+
 
 
 void main() {
